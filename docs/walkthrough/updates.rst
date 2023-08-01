@@ -18,7 +18,7 @@ The PVC must be updated accordingly to match its parent EVC.
 
 First, we have to remember the name of the created PVC:
 Let's extend the creation handler we already have from the previous step
-with one additional line:
+with two additional lines:
 
 .. code-block:: python
     :caption: ephemeral.py
